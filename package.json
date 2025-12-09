@@ -1,4 +1,4 @@
-```json
+
 {
 "name": "business-website",
 "version": "1.0.0",
@@ -21,4 +21,4 @@
 "@vitejs/plugin-react": "3.0.0"
 }
 }
-```
+
